@@ -8,3 +8,4 @@ Added from my_trial branch
 One more line from my_second
 
 -- from repo1 in branch first
+From Repo2 on branch first
